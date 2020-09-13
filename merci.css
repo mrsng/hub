@@ -44,3 +44,27 @@ input{
 #jobb{
     text-align:right;
 }
+#merci1{
+    float:right;
+}
+#merci2{
+    float:left;
+}
+h1{
+    text-align:center;
+    letter-spacing:6px;
+}
+p{
+    text-align:justify;
+}
+ul{
+    list-style-image: url('ikon.jpg');
+}
+a{
+    color:silver;
+}
+input{
+    width:100px;
+    color:silver;
+    font-family:cursive;
+}
